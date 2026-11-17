@@ -114,7 +114,4 @@ A star schema with **8 dimension tables** and **7 fact tables** (15 tables, 22 r
 
 ## Author
 
-**Nikita Moon**, Power BI Developer
-Nagpur, India
-
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Email](mailto:your-email@example.com)
+**Nikita Moon**
