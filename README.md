@@ -2,7 +2,7 @@
 
 An interactive Power BI report that tracks **student retention, graduation, academic performance, engagement, financial aid and support operations** for a university, built on a MySQL star-schema data model with 37 DAX measures.
 
-![Dashboard Preview](
+![Dashboard Preview](PNG1.png)
 <!-- Add a screenshot at images/dashboard-overview.png -->
 
 ---
